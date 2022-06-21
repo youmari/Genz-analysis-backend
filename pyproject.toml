@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "genz-backend-project"
+name = "genz-analysis-backend"
 version = "0.1.0"
 description = ""
 authors = ["Youmari"]
@@ -12,8 +12,6 @@ fastapi = "^0.78.0"
 SQLAlchemy = "^1.4.37"
 psycopg2-binary = "^2.9.3"
 alembic = "^1.8.0"
-graphene = "^3.1"
-strawberry-graphql = {extras = ["debug-server"], version = "^0.114.1"}
 
 [tool.poetry.dev-dependencies]
 
