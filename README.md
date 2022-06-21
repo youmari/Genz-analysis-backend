@@ -45,7 +45,8 @@ To get a local copy up and running follow these simple example steps.
   uvicorn main:app --reload
 ```
 
-### Deployment
+### Api Documentation 
+- To get the api Documentation after running the app Go to [Api Documentation](http://localhost:8000/docs)
 
 
 
